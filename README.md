@@ -10,7 +10,7 @@ Basic Array Operations (Methods)
 
 5. Change the name of one of your neighbouring countries. To do that, find the index of the country in the neighbours array, and then use that index to change the array at that index position. For example, you can search for 'Sweden' in the array, and then replace it with 'Republic of Sweden'.
 
-#Run
+# Run
 
 ```
 node script.js
